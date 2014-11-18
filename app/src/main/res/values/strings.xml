@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">pruebaDeGit</string>
-    <string name="hello_world">cambio cosas</string>
+    <string name="hello_world">cambio cosas 2</string>
     <string name="action_settings">Settings</string>
 
 </resources>
